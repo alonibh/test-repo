@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open *)",
+      "Bash(grep *)",
+      "Bash(go list *)",
+      "Bash(go get *)",
+      "Bash(curl -s \"https://proxy.golang.org/github.com/cyberark/conjur-api-go/@v/list\")",
+      "Bash(go mod *)",
+      "Bash(go build *)"
+    ]
+  }
+}
